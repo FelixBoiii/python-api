@@ -1,7 +1,7 @@
 import json
 import requests
 main_api = 'http://api.openweathermap.org/data/2.5/weather?q='
-key = '75ca5b836a8b636e1cd9075ffb7b7574'
+key = ':)'
 
 def apiLookUp():
     address = input('city name: ')
